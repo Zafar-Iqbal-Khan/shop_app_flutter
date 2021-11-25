@@ -16,19 +16,12 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 Screen shots of the app:
-![Screenshot (40)](https://user-images.githubusercontent.com/68896404/143475531-18977037-dd39-4a0b-87f7-36241de09993.png)
 
-![Screenshot_1637855874](https://user-images.githubusercontent.com/68896404/143473932-666c297c-f32a-4b02-8b7f-8520b944cfdd.png)
-![Screenshot_1637855936](https://user-images.githubusercontent.com/68896404/143473972-41cd8268-7ca4-4c1e-8fff-09a8e36096c1.png)
-
-
-![Screenshot_1637855946](https://user-images.githubusercontent.com/68896404/143474015-49a7dacb-076a-4f66-a63b-5a558aa30e09.png)
-
-![Screenshot_1637855955](https://user-images.githubusercontent.com/68896404/143474105-7baa0a86-5577-49e3-b964-3004cd9796ea.png)
-
-
-![Screenshot_1637855967](https://user-images.githubusercontent.com/68896404/143474186-dec8774d-aa83-41ef-ae7b-5eb3e90e3c1e.png)
-![Screenshot_1637855981](https://user-images.githubusercontent.com/68896404/143474265-3864a1f8-ebfe-4171-a7ba-56b316f25a27.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/68896404/143476488-aeb43479-2876-4a32-81b9-c1b6ebda628f.png) 
+![Screenshot (42)](https://user-images.githubusercontent.com/68896404/143476523-1d4d17b6-2ae6-45c9-ba58-ac77db059ba1.png)
 
 
 
+![Screenshot (43)](https://user-images.githubusercontent.com/68896404/143476536-05d9bfc9-9ea4-4d60-a86c-d8a6e3af4056.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/68896404/143476545-28d9b260-0106-436c-bcf8-8031d62d7d98.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/68896404/143476557-95b067b2-6a2e-42a8-840e-eaa7bc33a500.png)
